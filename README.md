@@ -2,7 +2,7 @@
 This is an analysis of the COVID-19 Pandemic using the latest data from Our World in Data. <br>
 ![image](https://github.com/assr-droid/COVID-19-Analysis-with-May-2023-Data/assets/75217839/cf54a53c-cec0-4fd0-8e64-7de47845db4d)
 
-The following SQL concepts are applied in "data_preparation_with_sql":
+The following SQL concepts are applied in "data_preparation_with_sql" to prepare the data for Tableau dashboard:
 
 - **SELECT statement:** Used to retrieve data from one or more tables.
 - **FROM clause:** Specifies the table(s) from which to retrieve data.
