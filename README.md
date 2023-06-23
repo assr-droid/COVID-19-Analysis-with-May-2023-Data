@@ -1,4 +1,4 @@
-#**Project Title: COVID-19 Data Analysis and Visualization**
+## Project Title: COVID-19 Data Analysis and Visualization
 ![image](https://github.com/assr-droid/COVID-19-Analysis-with-May-2023-Data/assets/75217839/cf54a53c-cec0-4fd0-8e64-7de47845db4d)
 
 **Description:**
