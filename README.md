@@ -1,23 +1,22 @@
-# COVID-19-Analysis-with-May-2023-Data
-This is an analysis of the COVID-19 Pandemic using the latest data from Our World in Data. <br>
+**Project Title: COVID-19 Data Analysis and Visualization**
 ![image](https://github.com/assr-droid/COVID-19-Analysis-with-May-2023-Data/assets/75217839/cf54a53c-cec0-4fd0-8e64-7de47845db4d)
 
-The following SQL concepts are applied in "data_preparation_with_sql" to prepare the data for Tableau dashboard:
+**Description:**
+This repository showcases a comprehensive analysis and visualization of COVID-19 data using SQL and Tableau. The project utilizes data from the reputable website Our World in Data to provide insights into the global impact of the pandemic.
 
-- **SELECT statement:** Used to retrieve data from one or more tables.
-- **FROM clause:** Specifies the table(s) from which to retrieve data.
-- **ORDER BY clause:** Sorts the result set based on one or more columns.
-- **WHERE clause:** Filters the rows based on specified conditions.
-- **UPDATE statement:** Modifies data in a table.
-- **SET clause:** Assigns new values to columns in an UPDATE statement.
-- **CONVERT function:** Converts a value from one data type to another.
-- **GROUP BY clause:** Groups the rows based on specified columns.
-- **JOIN operation:** Combines rows from two or more tables based on a related column between them.
-- **AS keyword:** Renames a table or column with an alias.
-- **SUM function:** Calculates the sum of a set of values.
-- **CAST function:** Converts a value to a specific data type.
-- **CASE statement:** Performs conditional logic to generate values based on specified conditions.
-- **Common table expressions (CTEs):** Temporarily defines a named result set that can be referenced within a SELECT, INSERT, UPDATE, or DELETE statement.
-- **CREATE VIEW statement:** Defines a virtual table based on the result of a query.
-- **VIEW:** A virtual table that is based on the result of a query and can be queried like a table.
-- **ROWS BETWEEN clause:** Specifies a range of rows to include in a window function calculation.
+**Key Findings:**
+- Europe emerges as the region with the highest number of COVID-19 cases, followed by Asia, North America, South America, Africa, and Oceania.
+- The United States reports the highest infection rate, affecting a staggering 30.46% of its population, while India has the lowest infection rate at approximately 3%.
+- The total number of worldwide cases stands at 1,531,839,100, with a devastating loss of 13,867,788 lives.
+
+**Data Preparation with SQL:**
+The data was prepared using various SQL concepts, including `SELECT`, `FROM`, `ORDER BY`, `WHERE`, `UPDATE`, `SET`, `CONVERT`, `GROUP BY`, `JOIN`, `AS`, `SUM`, `CAST`, `CASE` statements, as well as Common Table Expressions (CTEs) and `CREATE VIEW` statements.
+
+**Visualization in Tableau:**
+The prepared data was visualized using Tableau to create informative and engaging visual representations, including:
+- Total count of cases, deaths, and death percentage
+- Interactive map with gradient shading for infection severity
+- Bar chart showcasing infection rates across continents
+- Line chart displaying infection rates in the United States, China, Russia, and India, with future infection rate forecasts.
+
+Feel free to explore the files in this repository to gain insights and understand the COVID-19 situation better. Let's stay informed and united in the fight against the pandemic!
